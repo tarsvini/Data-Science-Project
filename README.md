@@ -1,7 +1,7 @@
 ﻿# Data-Science-Project
 Hi, 
 
-This repository consists of my data science reseach project (Sentiment Analysis of Haircare Product Reviews) that i did for Masters of Data Science.
+This repository consists of my data science reseach project (Sentiment Analysis of Haircare Product Reviews) that i did for Master in Data Science.
 This includes csv file and python notebook.
 Please contact me to know more about my research.
 
