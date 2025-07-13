@@ -3,5 +3,6 @@ Hi, This repository consists of my data science reseach project (Sentiment Analy
 This includes csv file and python notebook.
 Please contact me to know more about my research.
 
-Please checkout my deployed app in this URL: https://haircare-sentiment-analyzer.streamlit.app 
+Please checkout my deployed app in this URL: https://haircare-sentiment-analyzer.streamlit.app
+
 PS: You might need to restart the app because it goes to sleep when noone is using it.
